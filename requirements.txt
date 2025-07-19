@@ -1,0 +1,12 @@
+streamlit
+pandas
+nltk
+sastrawi
+scikit-learn
+joblib
+matplotlib
+wordcloud
+transformers
+langchain
+networkx
+langchain_ollama
