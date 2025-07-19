@@ -370,7 +370,7 @@ with tab4:
     # Inisialisasi model Sahabat AI
     sahabat_ai = ChatOllama(
         base_url="http://localhost:11434",  
-        model="hf.co/gmonsoon/gemma2-9b-cpt-sahabatai-v1-instruct-GGUF:Q8_0",
+        model="hf.co/gmonsoon/gemma2-9b-cpt-sahabatai-v1-instruct-GGUF:Q2_K",
         temperature=0.7,
         max_tokens=1024
     )
